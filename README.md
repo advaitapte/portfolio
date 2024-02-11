@@ -1,6 +1,6 @@
 # Data Scientist/Analyst
 
-Technical Skills: Python, C++, SQL, R, Excel
+#### Technical Skills: Python, C++, SQL, R, Excel
 
 ### Education
 BS, Data Science | University of Texas at Dallas (_December 2024_)
