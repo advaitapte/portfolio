@@ -18,6 +18,21 @@ Kaggle, Titanic Dataset (_August 2023_)
 - created a model using python to predict which passengers would survive the titanic
 - trained the data using the scikit-learn library and in jupyter notebook
 
+### Certifications
+R Programming: John Hopkins University (_July 2020_)
+- learned the basics of R, including how to use R Studio and basic libraries such as ggplot2, tidyverse, etc
+
+Exploratory Data Analysis: John Hopkins University (_August 2020_)
+- learned how to graph data and deal with complex datasets in R
+
+Python for Data Science and Machine Learning Bootcamp: Udemy (_November 2023_)
+- learned how to deal with missing data
+- also learned how to use basic machine learning skills and libraries in python
+
+Tableau A-Z: Hands on Tableau Training for Data Science: Udemy (_January 2024_)
+- learned how to make map plots
+- learned how to join/merge files to do data analysis
+
 ### Additional information
 Libraries/framework
 - Scikit-Learn
