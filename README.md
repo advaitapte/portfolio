@@ -3,7 +3,7 @@
 Technical Skills: Python, C++, SQL, R, Excel
 
 ### Education
-Bachelor's of science in Data Science | University of Texas at Dallas (_December 2024_)
+BS, Data Science | University of Texas at Dallas (_December 2024_)
 
 ### Work Experience
 Team Associate at Walmart (_December 2021 - August 2022_)
@@ -18,3 +18,16 @@ Kaggle, Titanic Dataset (_August 2023_)
 - created a model using python to predict which passengers would survive the titanic
 - trained the data using the scikit-learn library and in jupyter notebook
 
+### Additional information
+Libraries/framework
+- Scikit-Learn
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
+Machine Learning
+- Classification (Random Forest)
+- Regression modeling (linear, logistic)
+- clustering (K-means)
+ 
