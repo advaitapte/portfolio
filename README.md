@@ -18,6 +18,15 @@ Kaggle, Titanic Dataset (_August 2023_)
 - created a model using python to predict which passengers would survive the titanic
 - trained the data using the scikit-learn library and in jupyter notebook
 
+Analyze medical Data (_October 2023 - December 2023_)
+- Used R to do exploratory data analysis on all the variables in the dataset
+- Did Anova testing to confirm which variables don’t contribute to the model.
+- Made the final model which involved the most important predictor variables.
+
+BMS.re (_January 2024 - Present_)
+- Learning in depth about the concepts of insurance and reinsurance.
+- Will be using R to build a brand-new data processing and aggregation tool for BMS Re's accounting team
+
 ### Certifications
 R Programming: John Hopkins University (_July 2020_)
 - learned the basics of R, including how to use R Studio and basic libraries such as ggplot2, tidyverse, etc
