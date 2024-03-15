@@ -41,6 +41,7 @@ Python for Data Science and Machine Learning Bootcamp: Udemy (_November 2023_)
 Tableau A-Z: Hands on Tableau Training for Data Science: Udemy (_January 2024_)
 - learned how to make map plots
 - learned how to join/merge files to do data analysis
+- learned how to create dashboard's and stories in the software
 
 ### Additional information
 Libraries/framework
