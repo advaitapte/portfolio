@@ -17,7 +17,7 @@ Girls Inc. of Metropolitan Dallas | Impact Data Intern (_May 2024 - August 2024_
 - Conducted data cleaning and analysis for comprehensive Fiscal Year 2024 data, presenting key findings to the CEO and donors to support strategic decision-making.
 
 ### Projects
-BMS.re
+BMS.Re
 Catastrophic Analyst (_January 2024 - Present_)
 - Mastered intricate concepts of insurance and reinsurance through comprehensive study and application.
 - Led the development of an innovative data processing and aggregation tool for BMS Re’s accounting
