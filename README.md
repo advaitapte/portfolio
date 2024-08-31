@@ -18,7 +18,7 @@ Girls Inc. of Metropolitan Dallas | Impact Data Intern (_May 2024 - August 2024_
 
 ### Projects
 BMS.Re
-Catastrophic Analyst (_January 2024 - Present_)
+Catastrophic Analyst (_January 2024 - May 2024_)
 - Mastered intricate concepts of insurance and reinsurance through comprehensive study and application.
 - Led the development of an innovative data processing and aggregation tool for BMS Re’s accounting
 team using R, significantly improving financial operations and boosting efficiency.
