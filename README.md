@@ -1,4 +1,4 @@
-# Aspiring Data Analyst
+# Reporting Coordinator @Berry Appleman and Leiden LLP
 
 #### Technical Skills: Python, C++, SQL, R
 #### Data Visualization Tools: Tableau, Microsoft Excel, Power BI
@@ -21,7 +21,6 @@ consistency and attorney confidence in data accuracy.
 Word and PowerPoint that reduced redundant requests by 18% and promoted firm-wide knowledge sharing.
 - Managed 20+ ad hoc data requests per month from attorneys and senior partners, automating repeat queries in SQL and
 Databricks, which reduced response time by 35% and allowed faster case preparation.
-
 
 Girls Inc. of Metropolitan Dallas | Data Assistant (_May 2024 - February 2025_)
 - Designed and deployed 5 Tableau dashboards to visualize key performance indicators, increasing engagement by 20% among
@@ -81,4 +80,4 @@ Libraries/framework
 Machine Learning
 - Classification (Random Forest)
 - Regression modeling (linear, logistic)
-- clustering (K-means)
+- Clustering (K-means)
