@@ -5,9 +5,9 @@
 #### Cloud and Big Data Platforms: Azure, Databricks
 
 ### Education
-MS, Business Analytics and AI | University of Texas at Dallas (_December 2026_)
+- MS, Business Analytics and AI | University of Texas at Dallas (_December 2026_)
 
-BS, Data Science | University of Texas at Dallas (_December 2024_)
+- BS, Data Science | University of Texas at Dallas (_December 2024_)
 
 ### Work Experience
 Berry Appleman & Leiden LLP | Reporting Coordinator (_February 2025 - Present_)
