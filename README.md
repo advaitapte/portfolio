@@ -1,4 +1,4 @@
-# Reporting Coordinator @Berry Appleman and Leiden LLP
+# Reporting Coordinator @ Berry Appleman and Leiden LLP
 
 #### Technical Skills: Python, C++, SQL, R
 #### Data Visualization Tools: Tableau, Microsoft Excel, Power BI
